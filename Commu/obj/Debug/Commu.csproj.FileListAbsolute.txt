@@ -1,0 +1,9 @@
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\bin\Debug\Commu.exe.config
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.Main.resources
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.Properties.Resources.resources
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.csproj.GenerateResource.Cache
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\bin\Debug\Commu.exe
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\bin\Debug\Commu.pdb
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.exe
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.pdb
+c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.csprojResolveAssemblyReference.cache
