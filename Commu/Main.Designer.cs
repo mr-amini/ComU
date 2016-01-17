@@ -39,7 +39,7 @@
             this.lollipopFileInput1.FocusedColor = "#508ef5";
             this.lollipopFileInput1.FontColor = "#999999";
             this.lollipopFileInput1.IsEnabled = true;
-            this.lollipopFileInput1.Location = new System.Drawing.Point(12, 77);
+            this.lollipopFileInput1.Location = new System.Drawing.Point(336, 58);
             this.lollipopFileInput1.MaxLength = 32767;
             this.lollipopFileInput1.Name = "lollipopFileInput1";
             this.lollipopFileInput1.ReadOnly = false;
@@ -48,6 +48,7 @@
             this.lollipopFileInput1.Text = "lollipopFileInput1";
             this.lollipopFileInput1.TextAlignment = System.Windows.Forms.HorizontalAlignment.Left;
             this.lollipopFileInput1.UseSystemPasswordChar = false;
+            this.lollipopFileInput1.TextChanged += new System.EventHandler(this.lollipopFileInput1_TextChanged);
             // 
             // lollipopTextBox2
             // 
@@ -88,7 +89,7 @@
             this.lollipopTextBox1.HelpTextFont = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.lollipopTextBox1.IsEnabled = true;
             this.lollipopTextBox1.LineColor = System.Drawing.Color.Silver;
-            this.lollipopTextBox1.Location = new System.Drawing.Point(12, 12);
+            this.lollipopTextBox1.Location = new System.Drawing.Point(348, 98);
             this.lollipopTextBox1.MaxLength = 32767;
             this.lollipopTextBox1.MostComplete = true;
             this.lollipopTextBox1.MostCompleteMessage = "This field is required";
@@ -98,6 +99,7 @@
             this.lollipopTextBox1.ReadOnly = false;
             this.lollipopTextBox1.Size = new System.Drawing.Size(300, 40);
             this.lollipopTextBox1.TabIndex = 0;
+            this.lollipopTextBox1.Text = "yes ";
             this.lollipopTextBox1.TextAlignment = System.Windows.Forms.HorizontalAlignment.Left;
             this.lollipopTextBox1.TextBoxBackColor = System.Drawing.Color.White;
             this.lollipopTextBox1.TextBoxFont = new System.Drawing.Font("Microsoft Sans Serif", 10F);
