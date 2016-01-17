@@ -6,3 +6,6 @@ c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Co
 c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\ComU.csproj.GenerateResource.Cache
 c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.exe
 c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Commu.pdb
+C:\Users\Ehsan\Documents\GitHub\ComU\Commu\bin\Debug\Commu.exe.config
+C:\Users\Ehsan\Documents\GitHub\ComU\Commu\obj\Debug\Commu.exe
+C:\Users\Ehsan\Documents\GitHub\ComU\Commu\obj\Debug\Commu.pdb
