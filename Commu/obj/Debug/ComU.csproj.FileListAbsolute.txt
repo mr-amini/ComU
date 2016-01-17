@@ -9,3 +9,12 @@ c:\users\mr.amini\documents\visual studio 2015\Projects\Commu\Commu\obj\Debug\Co
 C:\Users\Ehsan\Documents\GitHub\ComU\Commu\bin\Debug\Commu.exe.config
 C:\Users\Ehsan\Documents\GitHub\ComU\Commu\obj\Debug\Commu.exe
 C:\Users\Ehsan\Documents\GitHub\ComU\Commu\obj\Debug\Commu.pdb
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\bin\Debug\Commu.exe.config
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\Commu.exe
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\Commu.pdb
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\bin\Debug\Commu.exe
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\bin\Debug\Commu.pdb
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\ComU.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\Commu.Main.resources
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\Commu.Properties.Resources.resources
+C:\Users\Mr.Amini\Documents\GitHub\ComU\Commu\obj\Debug\ComU.csproj.GenerateResource.Cache

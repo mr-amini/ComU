@@ -67,6 +67,9 @@
     <Compile Include="Components\Controls\LollipopLabel.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Components\Controls\LollipopMessage.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Components\Controls\LollipopProgressBar.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -80,6 +83,9 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Components\Controls\LollipopToggle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\Controls\LollipopXListBox.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Main.cs">
