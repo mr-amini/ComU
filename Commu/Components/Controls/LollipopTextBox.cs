@@ -405,6 +405,9 @@ public class LollipopTextBox : Control
     #endregion
     #region  Events
 
+    public delegate void ButtonClickEvent(object sender, EventArgs e);
+    public event ButtonClickEvent EnterPress;
+
     void GotFocus(object sender, EventArgs e)
     {
         Focus = true;
@@ -493,6 +496,13 @@ public class LollipopTextBox : Control
             LollipopTB.Paste();
             e.SuppressKeyPress = true;
         }
+
+        if (e.KeyCode == Keys.Enter)
+        {
+            EnterPress(this, e);
+            e.SuppressKeyPress = true;
+        }
+
 
         // Enter Alphabet Value
         if (txtInputType == InputType.Alphabet)
